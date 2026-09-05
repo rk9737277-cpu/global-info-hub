@@ -1,0 +1,5 @@
+streamlit
+wikipedia
+feedparser
+beautifulsoup4
+requests
