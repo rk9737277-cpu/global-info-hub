@@ -1,4 +1,7 @@
 cat << 'EOF' > requirements.txt
-streamlit>=1.35.0
-requests>=2.31.0
+requests
 EOF
+
+git add requirements.txt
+git commit -m "Fix requirements.txt error"
+git push
